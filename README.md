@@ -9,7 +9,7 @@ Target Practice is a simple minigame written in Python for Minecraft Pi. In this
 ###Installation
 
 Copy all of the files to a directory on your Raspberry Pi. You can use any directory as long as the files are in the same one.
-The Button module is configured to use GPIO pin 17 by default. Change the number in [line 215 in `target_minigame.py`](https://github.com/adeeb1/minecraft-pi-target-practice/blob/master/piper_target_minigame.py#L215) to specify your own GPIO number.
+The Button module is configured to use GPIO pin 17 by default. Change the number in [line 215 in `target_minigame.py`](https://github.com/adeeb1/minecraft-pi-target-practice/blob/master/target_minigame.py#L215) to specify your own GPIO number.
 
 ###Starting the Game
 1. Launch Minecraft Pi, and enter any world.
